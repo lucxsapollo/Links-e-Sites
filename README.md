@@ -1,5 +1,5 @@
 # Links e Sites Utéis 💭
-Se assim como eu, você tem dificuldade de achar sites para o que está precisando, esse repositório servirá muito bem!
+Se assim como eu, você tem dificuldade de achar sites para o que está precisando, esse repositório servirá muito bem!!
 
 ## Aprender programação gratuitamente 👩🏻‍💻
 - https://www.freecodecamp.org/
